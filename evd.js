@@ -1,6 +1,6 @@
 function magic() {
     document. getElementById("pre-magic").remove();
-    document.getElementById("post-magic").innerHTML = "Lol! Still you are waiting for magic. Do Your Work!";
+    document.getElementById("post-magic").innerHTML = "Lol! You are waiting for magic. Do Your Work!";
     setTimeout(timeoutstill, 2000)
     setTimeout(timeoutload, 6000)
 }
